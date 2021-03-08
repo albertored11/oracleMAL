@@ -1,6 +1,6 @@
 # oracleMAL
 
-Simple C++ cross-platform application that provides you an useful implementation of your anime list from [MyAnimeList](https://myanimelist.net/) as an Oracle SQL script.
+Simple C++ cross-platform application that provides an useful implementation of an anime list from [MyAnimeList](https://myanimelist.net/) as an Oracle SQL script.
 
 ## Build
 
